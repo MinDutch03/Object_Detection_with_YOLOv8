@@ -3,6 +3,5 @@ Pillow
 pathlib
 opencv-python-headless
 pytube
-pytube
 ultralytics
 pytest-shutil
