@@ -1,7 +1,7 @@
 streamlit
 Pillow
 pathlib
-opencv-python
+opencv-python-headless
 pytube
 pytube
 ultralytics
