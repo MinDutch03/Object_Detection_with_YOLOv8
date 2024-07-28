@@ -1,0 +1,8 @@
+streamlit
+Pillow
+pathlib
+opencv-python
+pytube
+pytube
+ultralytics
+pytest-shutil
