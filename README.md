@@ -1,4 +1,5 @@
-# Object Detection: https://minhduc-object-detection-with-yolov8.streamlit.app/
+# Object Detection
+https://minhduc-object-detection-with-yolov8.streamlit.app/
 
 The Object Detection and Tracking App combines YOLOv8 with Streamlit, enabling real-time object detection and tracking. With a user-friendly interface, it supports tasks like image and video analysis, webcam feeds, and YouTube videos. This versatile app simplifies the configuration of detection tasks, providing quick and intuitive results. Ideal for a variety of scenarios, it offers a seamless way to leverage YOLOv8's capabilities for efficient object detection and tracking.
 
