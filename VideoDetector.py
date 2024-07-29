@@ -63,13 +63,9 @@ class VideoDetector:
                         os.remove(video_path)
                     break
 
-            # Create download link for processed video
-            with open(output_path, "rb") as file:
-                st.download_button(
-                    label="Download Processed Video",
-                    data=file,
-                    file_name=output_path,
-                    mime="video/mp4"
-                )
-            # Optionally remove the file after download (or keep for user convenience)
+            # Display the processed video within the app
+            st.video(output_path)
+            
+            # Optionally remove the file after display (or keep for user convenience)
             os.remove(output_path)
+
